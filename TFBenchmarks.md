@@ -4,8 +4,9 @@ title: TFBenchmarks
 permalink: /TFBenchmarks/
 ---
 
-Tensorflow use cases of varying complexity to benchmark hardware, hyperparameters and
-optimizers
+#### Tensorflow use cases of varying complexity to benchmark hardware, hyperparameters and optimizers
+
+#### [See it on GitHub](https://github.com/Ericvulpi/MusicBar)
 
 ## Target
 
@@ -34,5 +35,3 @@ the following characteristics :
 - Rosenbrock function
 - MNIST tensorflow example
 - tbd
-
----
