@@ -1,13 +1,24 @@
-# Home
+---
+layout: home
+---
+![DSC01891.JPG]({{site.baseurl}}/images/Index/DSC01891.JPG)
 
-Eric de Vulpillières' Home Page
+Currently an aerospace engineer at Safran.<br>
+Interested in artificial intelligence and neural networks.<br>
+<br>
 
-## TFBenchmarks
+----
+## Projects
 
-[https://ericvulpi.github.io/TFBenchmarks/](https://ericvulpi.github.io/TFBenchmarks/)
+#### [TFBenchmarks]({{site.baseurl}}/TFBenchmarks/)
 
-## MusicBar
+Tensorflow use cases of varying complexity to benchmark hardware, hyperparameters and optimizers
 
-[https://ericvulpi.github.io/MusicBar/](https://ericvulpi.github.io/MusicBar/)
+#### [MusicBar]({{site.baseurl}}/MusicBar/)
 
+Control your music players from the macOS (OS X) menu bar
+<br>
+<br>
 
+----
+## Posts
