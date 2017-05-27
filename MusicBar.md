@@ -7,35 +7,42 @@ permalink: /MusicBar/
 
 #### [See it on GitHub](https://github.com/Ericvulpi/MusicBar)
 
+#### [Download](https://github.com/Ericvulpi/MusicBar/raw/master/DiscImageMounter/MusicBar.dmg)
+
 ## Features
 
 #### Control your music player without having to switch window  
-![Screen Shot 2017-05-08 at 19.12.11.jpg]({{site.baseurl}}/images/MusicBar/Screen Shot 2017-05-08 at 19.12.11.jpg)
+![Screen Shot 2017-05-08 at 19.12.11.jpg](https://github.com/Ericvulpi/MusicBar/raw/master/images/MusicBar/Screenshot_base.jpg)
 
-#### Customize your controls :
+#### Customize your controls through the menu :
   * Minimal  
-![]({{site.baseurl}}/images/MusicBar/Screen Shot 2017-05-08 at 18.43.56 edit.png)
+![](https://github.com/Ericvulpi/MusicBar/raw/master/images/MusicBar/Screenshot_mini.png)
 
   * Add the switch button between iTunes and Spotify playback (MusicBar automatically pauses the player you are not using to prevent double playing)  
-![]({{site.baseurl}}/images/MusicBar/Screen Shot 2017-05-08 at 19.28.14.png)
+![](https://github.com/Ericvulpi/MusicBar/raw/master/images/MusicBar/Screenshot_switch.png)
 
   * Display track informations (artist & song title)  
-![]({{site.baseurl}}/images/MusicBar/Screen Shot 2017-05-08 at 18.42.04.png)
+![](https://github.com/Ericvulpi/MusicBar/raw/master/images/MusicBar/Screenshot_track_info.png)
 
   * Display and edit iTunes star rating  
-![]({{site.baseurl}}/images/MusicBar/Screen Shot 2017-05-08 at 18.37.00.png)
+![](https://github.com/Ericvulpi/MusicBar/raw/master/images/MusicBar/Screenshot_star.png)
+
+  * All this accessed through the menu
+![](https://github.com/Ericvulpi/MusicBar/raw/master/images/MusicBar/Screenshot_menu.png)
+
+#### Set MusicBar to launch automatically at login in the *Other Settings* menu
 
 #### Search for the track you are listening on :
-  * iTunes : for ex. if you are listening on Spotify and want to buy the track
-  * Youtube : in case some people (not I of course :) might want to use this mp3 downloading extension ⇨ [pointmp3](http://blog.pointmp3.com/en/blog/extensions-navigateurs)
-  * Last.fm : an online music database / social network
+  * **iTunes** : for ex. if you are listening on Spotify and want to buy the track
+  * **Youtube** : in case some people (not I of course :) might want to use this mp3 downloading extension ⇨ [pointmp3](http://blog.pointmp3.com/en/blog/extensions-navigateurs)
+  * **Last.fm** : an online music database / social network
 
-#### And lastly ... the awesome black style  
-![]({{site.baseurl}}/images/MusicBar/Screen Shot 2017-05-08 at 19.39.24.png)
+#### And lastly ... the awesome black style :)
+![](https://github.com/Ericvulpi/MusicBar/raw/master/images/MusicBar/Screenshot_black.png)
 
 ## About MusicBar
 
-MusicBar is the first product from Tungsten...
+MusicBar is the first product from Tungsten...  
 Ok, it's a joke. Special dedicace @ Ivan & Simon, 2 friends of mine who love to talk about launching a startup (we even found the name), but when it comes to actually doing something ... ;)
 
 I actually started this project for 2 partly related reasons :
