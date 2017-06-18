@@ -9,7 +9,7 @@ permalink: /MusicBar/
 
 #### [Download](https://github.com/Ericvulpi/MusicBar/raw/master/DiscImageMounter/MusicBar.dmg)
 
-#### [Report a Bug](https://github.com/Ericvulpi/MusicBar/issues) or [contact me](ericvulpi@gmail.com)
+#### [Report a Bug](https://github.com/Ericvulpi/MusicBar/issues) or [contact me](mailto:ericvulpi@gmail.com)
 
 ## Features
 
