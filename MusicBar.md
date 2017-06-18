@@ -5,9 +5,11 @@ permalink: /MusicBar/
 ---
 #### Control your music players from the macOS (OS X) menu bar
 
-#### [See it on GitHub](https://github.com/Ericvulpi/MusicBar)
+#### [Participate to the project on GitHub](https://github.com/Ericvulpi/MusicBar)
 
 #### [Download](https://github.com/Ericvulpi/MusicBar/raw/master/DiscImageMounter/MusicBar.dmg)
+
+#### [Report a Bug](https://github.com/Ericvulpi/MusicBar/issues) or [contact me](ericvulpi@gmail.com)
 
 ## Features
 
