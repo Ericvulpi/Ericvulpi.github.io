@@ -10,11 +10,11 @@ Interested in artificial intelligence and neural networks.<br>
 ----
 ## Projects
 
-#### [TFBenchmarks]({{site.baseurl}}/TFBenchmarks/)
+### [TFBenchmarks]({{site.baseurl}}/TFBenchmarks/)
 
 Tensorflow use cases of varying complexity to benchmark hardware, hyperparameters and optimizers (work in progress)
 
-#### [MusicBar]({{site.baseurl}}/MusicBar/)
+### [MusicBar]({{site.baseurl}}/MusicBar/)
 
 Control your music players from the macOS (OS X) menu bar
 <br>
