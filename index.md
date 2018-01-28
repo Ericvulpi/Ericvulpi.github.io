@@ -21,4 +21,3 @@ Control your music players from the macOS (OS X) menu bar
 <br>
 
 ----
-## Posts
